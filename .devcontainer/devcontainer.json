@@ -1,0 +1,12 @@
+{
+	"image": "sergioalen/starship-prompt",
+	"settings": {
+		"terminal.integrated.defaultProfile.linux": "zsh",
+		"terminal.integrated.fontFamily": "FiraCode Nerd Font"
+	},
+	"features": {
+		"docker-in-docker": "latest",
+		"git": "latest",
+		"azure-cli": "latest"
+	}
+  }
